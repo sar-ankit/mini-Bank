@@ -1,14 +1,17 @@
-## Mini Banking System
+# Mini Banking System
 A simple banking system created using Java Swing and MySQL database.
 Feature
-# Feature
+## Feature
 1. Deposit money into account
 2. Withdraw money from account
 3. Check account balance
 4. View mini statement of recent transactions
 5. Change PIN for account security
 6.  Fast Cash Withdrawl
-# Technologies Used
+## Technologies Used
+ java Swing and AET(Abstract Window Toolkit) for GUI development  
+ MySQL database for storing account information and transaction history  
+ JDBC (Java Database Connectivity) for interacting with MySQL database
    
 
 
